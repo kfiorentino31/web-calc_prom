@@ -9,6 +9,7 @@ body {
 
     background-color: #f2f2f2;
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQCO5GnCKnwbmLecdpfRPvgWhw0QL9ZzHA1EEKCHW9vQ&s=10);
+    background: no-repeat;
     background-size: cover;
     height: 400px;
     font-family: Arial, sans-serif;
